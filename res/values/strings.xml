@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyListsActivity!</string>
+    <string name="app_name">MyLists</string>
+    <string name="messageForInput">Enter name list</string>
+    <string name="btnAddList">+</string>
+    <string name="namelistinput">Название:</string>
+    <string name="desclistinput">Описание</string>
+    <string name="btnNameBackToList">К спискам</string>
+    <color name="grey">#9999</color>
+    <color name="blue">#E79B29</color>
+	
+</resources>
